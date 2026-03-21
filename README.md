@@ -34,8 +34,7 @@ L'application se compose d'une interface épurée avec deux boutons principaux :
 * `activity_main.xml` : Définit l'interface utilisateur (boutons et texte).
 * `AndroidManifest.xml` : Déclare les composants de l'application.
 
-## 🤝 Contribution
-Les contributions, les problèmes (issues) et les demandes de fonctionnalités sont les bienvenus ! N'hésitez pas à consulter la page des [issues](https://github.com/votre-utilisateur/HelloToast/issues).
+
 
 ---
 Aourik Anas
