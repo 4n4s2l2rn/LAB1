@@ -23,7 +23,7 @@ L'application se compose d'une interface épurée avec deux boutons principaux :
 
 1.  Clonez ce dépôt :
     
-    git clone [https://github.com/4n4s2l2rn/HelloToast.git](https://github.com/4n4s2l2rn/HelloToast.git)
+    git clone [https://github.com/4n4s2l2rn/LAB1.git](https://github.com/4n4s2l2rn/LAB1.git)
   
 2.  Ouvrez le projet dans **Android Studio**.
 3.  Laissez Gradle synchroniser les dépendances.
