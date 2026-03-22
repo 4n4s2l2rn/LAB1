@@ -17,7 +17,7 @@ L'application se compose d'une interface épurée avec deux boutons principaux :
 - **Langage** : Java
 - **IDE** : Android Studio
 - **Layout** : XML (LinearLayout)
-- **Minimum SDK** : API 24 (Android 7.0)
+- **Minimum SDK** : API 33 (Android 13)
 
 ## Installation
 
@@ -37,4 +37,4 @@ L'application se compose d'une interface épurée avec deux boutons principaux :
 
 
 ---
-Aourik Anas
+Développé par Aourik Anas Élève Ingénieur en 4ème année Génie Cyber defence et systemes de telecom embarque - ENSA Marrakech
