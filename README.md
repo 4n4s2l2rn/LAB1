@@ -1,4 +1,5 @@
 # HelloToast 
+<img width="497" height="165" alt="image" src="https://github.com/user-attachments/assets/a38c36af-63d7-4fdc-bd17-3c96fc894440" />
 
 Une application Android simple et intuitive pour apprendre les bases du développement mobile, notamment la gestion des événements de clic, l'affichage de messages (Toasts) et la manipulation des composants d'interface (UI).
 
